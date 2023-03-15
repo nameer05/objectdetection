@@ -1,0 +1,22 @@
+body{
+ background-size: cover;
+ background-position: center;   
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+,#Number_Of_Objects
+,#start_model
+{
+font-size: 18px;
+}
+
+canvas{
+margin-top: 180px;
+}
+
